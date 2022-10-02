@@ -68,6 +68,13 @@ a {
     padding-bottom: 50px;
 }
 
+.img-1 {
+    border-color: Gray;
+    border-width: 10px;
+    border-radius: 5px;
+    border-style: solid;
+    width: 250px;
+
 .navbar {
     padding-top: 15px;
     padding-bottom: 15px;
